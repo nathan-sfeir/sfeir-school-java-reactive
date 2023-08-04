@@ -8,7 +8,7 @@ function schoolSlides() {
 }
 
 function introSlides() {
-  return ['01-introduction/00-TITLE.md', '01-introduction/01-plan.md', '01-introduction/02-prerequis.md'];
+  return ['01-introduction/00-TITLE.md', '01-introduction/01-plan.md', '01-introduction/02-prerequis.md', '01-introduction/03-out-of-scope.md'];
 }
 
 function formation() {
