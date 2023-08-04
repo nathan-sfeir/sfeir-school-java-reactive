@@ -2,16 +2,15 @@
 
 # Présentation
 
-![speaker](./assets/images/jf.jpg)
-![badge](./assets/images/gde.png)
+![speaker](./assets/images/nathan.jpeg)
 ![company](./assets/images/logo-sfeir-blanc.png)
 
-## Jean-François Garreau
+## Nathan Pecqueux
 
-### CTO front
+### Développeur java
 
 <!-- .element: class="icon-rule icon-first" -->
 
-### @jefbinomed
+### pecqueux.n@sfeir.com
 
 <!-- .element: class="icon-twitter icon-second" -->
